@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj": {}
+    "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj": {
+    "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "c:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj",
+        "projectPath": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\DemoMVC.csproj",
         "packagesPath": "C:\\Users\\FPTSHOP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\obj\\",
+        "outputPath": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\Net_core_API\\DemoMVC\\demoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FPTSHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
