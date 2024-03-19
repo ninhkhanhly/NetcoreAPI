@@ -11,7 +11,7 @@ namespace MvcMovie.Controllers
         // }
         public IActionResult Index(Employee E1)
         {
-            string strOutput = "xin chao " + E1.manhanvien + " - " + E1.Tennhanvien + " - " + E1.Tuoi + "-" + E1.luong;
+            string strOutput = "xin chao: " + E1.manhanvien + " - " + E1.Tennhanvien + " - " + E1.Tuoi + "-" + E1.luong;
             ViewBag.infoEmployee = strOutput;
             return View();
         }
